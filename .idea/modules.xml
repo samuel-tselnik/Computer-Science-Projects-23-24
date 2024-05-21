@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Computer-Science-Projects-23-24.iml" filepath="$PROJECT_DIR$/Computer-Science-Projects-23-24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-assignment-01-samuel-tselnik/java-assignment-01-samuel-tselnik.iml" filepath="$PROJECT_DIR$/java-assignment-01-samuel-tselnik/java-assignment-01-samuel-tselnik.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-assignment-02-samuel-tselnik/java-assignment-02-samuel-tselnik.iml" filepath="$PROJECT_DIR$/java-assignment-02-samuel-tselnik/java-assignment-02-samuel-tselnik.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-assignment-03-samuel-tselnik/java-assignment-03-samuel-tselnik.iml" filepath="$PROJECT_DIR$/java-assignment-03-samuel-tselnik/java-assignment-03-samuel-tselnik.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-assignment-04-samuel-tselnik/java-assignment-04-samuel-tselnik.iml" filepath="$PROJECT_DIR$/java-assignment-04-samuel-tselnik/java-assignment-04-samuel-tselnik.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-assignment-05-samuel-tselnik/java-assignment-05-samuel-tselnik.iml" filepath="$PROJECT_DIR$/java-assignment-05-samuel-tselnik/java-assignment-05-samuel-tselnik.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-assignment-07-samuel-tselnik/java-assignment-07-samuel-tselnik.iml" filepath="$PROJECT_DIR$/java-assignment-07-samuel-tselnik/java-assignment-07-samuel-tselnik.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-assignment-08-samuel-tselnik/java-assignment-08-samuel-tselnik.iml" filepath="$PROJECT_DIR$/java-assignment-08-samuel-tselnik/java-assignment-08-samuel-tselnik.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-assignment-09-samuel-tselnik/java-assignment-09-samuel-tselnik.iml" filepath="$PROJECT_DIR$/java-assignment-09-samuel-tselnik/java-assignment-09-samuel-tselnik.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-assignment-10-samuel-tselnik/java-assignment-10-samuel-tselnik.iml" filepath="$PROJECT_DIR$/java-assignment-10-samuel-tselnik/java-assignment-10-samuel-tselnik.iml" />
+    </modules>
+  </component>
+</project>
